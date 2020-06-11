@@ -1,7 +1,7 @@
 # Detection of Masked People (from crowd) 
 ## Overview
 When I saw PyImage's Adrian and many Kaggle users taking interest in this kind of a Classifier, I felt it needs to be done on a massive scale.</br>
-I made a Classifier that can classify people from a crowd and detect whether they are wearing masks or not. It shows the confidence % upto the accuracy of classification. I web scaped a lot of data for this and it took me a while. </br>
+I made a Classifier that can classify people from a crowd and detect whether they are wearing masks or not. It shows the confidence % upto the accuracy of classification. I web scraped a lot of data for this and it took me a while. </br>
 
 ### Scope in future
 We can further add Tracking APIs from Computer Vision and use this to track people not wearing masks, which can help the government look for people breaking the law. 
