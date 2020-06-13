@@ -6,8 +6,11 @@ I made a Classifier that can classify people from a crowd and detect whether the
 - Went to Kaggle and different sources for webscrapig the dataset
 - Performed image augmentation on the dataset
 - Fine tuned the hyperparameters of Mobilenet v2 SSDlite that brings the best accuracy without overfitting,used Imagenet weights- https://github.com/chuanqi305/MobileNetv2-SSDLite
+- Tested the model
+
 ### Scope in future
 We can further add Tracking APIs from Computer Vision and use this to track people not wearing masks, which can help the government look for people breaking the law. 
+
 ### To try the code:
  ```python detect_image.py --image 1.jpg```
 ### Dataset:
