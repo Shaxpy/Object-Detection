@@ -3,7 +3,7 @@
 When I saw PyImage's Adrian and many Kaggle users taking interest in this kind of a Classifier, I felt it needs to be done on a massive scale.</br>
 I made a Classifier that can classify people from a crowd and detect whether they are wearing masks or not. It shows the confidence % upto the accuracy of classification. I web scraped a lot of data for this and it took me a while. </br>
 ## What did I do
-- Went to Kaggle and different sources for webscrapig the dataset
+- Went to Kaggle and did some webscraping on different sources,  to construct the dataset
 - Performed image augmentation on the dataset
 - Fine tuned the hyperparameters of Mobilenet v2 SSDlite that brings the best accuracy without overfitting,used Imagenet weights- https://github.com/chuanqi305/MobileNetv2-SSDLite
 - Tested the model
