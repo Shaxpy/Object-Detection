@@ -12,8 +12,8 @@ I made a Classifier that can classify people from a crowd and detect whether the
 We can further add Tracking APIs from Computer Vision and use this to track people not wearing masks, which can help the government look for people breaking the law. 
 
 ### To try the code:
- ```python Detect_image.py --image 1.jpg```
- ```python Detect-masks-Realtime.py ```
+ ```python3 Detect_image.py --image 1.jpg``` </br>
+ ```python3 Detect-Masks-Realtime.py ```
   
 ### Dataset:
 For with masks-https://www.kaggle.com/ahmetfurkandemr/mask-datasets-v1,https://www.kaggle.com/vtech6/medical-masks-dataset,https://www.kaggle.com/gooogr/yolo-medical-mask-dataset? and more on Kaggle.</br> 
