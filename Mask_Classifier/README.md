@@ -15,9 +15,10 @@ We can further add Tracking APIs from Computer Vision and use this to track peop
  ```python3 Detect_image.py --image 1.jpg``` </br>
  ```python3 Detect-Masks-Realtime.py ```
 ### Output
-![](https://github.com/Shaxpy/Robotics-and-AI/blob/master/Mobilenet%20V2/Mask_Classifier/Output/test.jpeg)
-![](https://github.com/Shaxpy/Robotics-and-AI/blob/master/Mobilenet%20V2/Mask_Classifier/Output/output6.jpeg)
-![](https://github.com/Shaxpy/Robotics-and-AI/blob/master/Mobilenet%20V2/Mask_Classifier/Output/output5.jpeg)
+
+![](https://github.com/Shaxpy/Robotics-and-AI/blob/master/Mask_Classifier/Output/test.jpeg)
+![](https://github.com/Shaxpy/Robotics-and-AI/blob/master/Mask_Classifier/Output/output6.jpeg)
+![](https://github.com/Shaxpy/Robotics-and-AI/blob/master/Mask_Classifier/Output/output5.jpeg)
 
 ### Dataset:
 For with masks-https://www.kaggle.com/ahmetfurkandemr/mask-datasets-v1,https://www.kaggle.com/vtech6/medical-masks-dataset,https://www.kaggle.com/gooogr/yolo-medical-mask-dataset? and more on Kaggle.</br> 
