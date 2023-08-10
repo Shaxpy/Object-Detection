@@ -1,4 +1,6 @@
 # Detection of Masked People (from crowd) 
+![Research Paper](https://www.sciencedirect.com/science/article/pii/S1568494622004926)
+
 ## Overview
 When I saw many Kaggle users taking interest in this kind of a Classifier, I felt it needs to be done on a massive scale.</br>
 I made a Classifier that can classify people from a crowd and detect whether they are wearing masks or not. It shows the confidence % upto the accuracy of classification. I web scraped a lot of data for this and it took me a while. </br>
@@ -25,5 +27,4 @@ We can further add Tracking APIs from Computer Vision and use this to track peop
 For the sake of reference, you can try -<br>
 - For with masks-https://www.kaggle.com/ahmetfurkandemr/mask-datasets-v1,https://www.kaggle.com/vtech6/medical-masks-dataset,https://www.kaggle.com/gooogr/yolo-medical-mask-dataset and more on Kaggle.</br> 
 - For without masks-https://www.kaggle.com/abuanas/masked-face-detection-wider-dataset, I used many classes like Demonstration,Group, Cheering, Meeting, Shopper,Dancing, Handshakes etc. 
-
-#### For research purposes, I can share the dataset, send me an email at: shashwatpandey28gmail.com
+#### For research purposes, I can share the dataset, send me an email at: shashwatpandey28@gmail.com
