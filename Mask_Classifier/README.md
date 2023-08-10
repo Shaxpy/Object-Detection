@@ -1,5 +1,5 @@
 # Detection of Masked People (from crowd) 
-![Research Paper](https://www.sciencedirect.com/science/article/pii/S1568494622004926)
+Research paper -> https://www.sciencedirect.com/science/article/pii/S1568494622004926)
 
 ## Overview
 When I saw many Kaggle users taking interest in this kind of a Classifier, I felt it needs to be done on a massive scale.</br>
